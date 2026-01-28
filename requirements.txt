@@ -1,0 +1,9 @@
+ffmpeg-python
+matplotlib
+numba
+numpy
+opencv-python
+opencv-contrib-python
+plotly
+requests
+scikit-image
