@@ -9,9 +9,12 @@ dependencies = [
     "requests"
 ]
 readme = "README.md"
-license-files=["LICENSE"]
+license = {file = "LICENSE"}
 
 [project.urls]
 Repository = "https://github.com/hjhawkinsiv/afed-tk.git"
 Issues = "https://github.com/hjhawkinsiv/afed-tk/issues"
 Changelog = "https://github.com/hjhawkinsiv/afed-tk/blob/main/CHANGELOG.md"
+
+[tool.setuptools]
+py-modules = []
