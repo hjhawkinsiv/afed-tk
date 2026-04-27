@@ -1,4 +1,4 @@
-from numba import njit
+from numba import njit, types as numba_types
 from numba.typed import Dict
 
 @njit
