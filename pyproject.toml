@@ -1,0 +1,17 @@
+[project]
+name = "afed-tk"
+version = "0.1.0"
+description = "automatic fugitive emissions detection toolkit"
+authors = [ { name = "CMU CREATE Lab" } ]
+dependencies - [
+    "ffmpeg-python",
+    "numba",
+    "requests"
+]
+readme = "README.md"
+license-files=["LICENSE"]
+
+[project.urls]
+Repository = "https://github.com/hjhawkinsiv/afed-tk.git"
+Issues = "https://github.com/hjhawkinsiv/afed-tk/issues"
+Changelog = "https://github.com/hjhawkinsiv/afed-tk/blob/main/CHANGELOG.md"
