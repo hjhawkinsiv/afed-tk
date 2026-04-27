@@ -3,7 +3,7 @@ name = "afed-tk"
 version = "0.1.0"
 description = "automatic fugitive emissions detection toolkit"
 authors = [ { name = "CMU CREATE Lab" } ]
-dependencies - [
+dependencies = [
     "ffmpeg-python",
     "numba",
     "requests"
